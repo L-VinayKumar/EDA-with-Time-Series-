@@ -6,7 +6,7 @@ In 2016, Tesla became the world’s first vertically-integrated sustainable ener
 
 
 ![App Screenshot](https://img.money.com/2021/05/Investing-How-To-Buy-Tesla-Stock.jpg)
-Full report of this project: [Time-Series](https://github.com/L-VinayKumar/EDA-with-Time-Series-/blob/main/Time_series_EDA/Tesla_data.ipynb)
+
 ## Methodology:
 
     1. Description
@@ -42,6 +42,7 @@ _matplotlib package :_
 
 > $ sudo pip install matplotlib
 
+Full report of this project: [Time-Series](https://github.com/L-VinayKumar/EDA-with-Time-Series-/blob/main/Time_series_EDA/Tesla_data.ipynb)
 
 ## Time Resampling:
     * Year end Frequency
