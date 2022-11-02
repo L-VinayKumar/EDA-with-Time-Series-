@@ -52,5 +52,5 @@ _matplotlib package :_
 ![Logo](https://github.com/L-VinayKumar/EDA-with-Time-Series-/blob/main/Time_series_EDA/Business-quater-start-Freq.PNG?raw=true)
 
 ## Visualization:
-
+    * Tesla Stock Open Price with 10 days 'Rolling'
 ![Logo](https://github.com/L-VinayKumar/EDA-with-Time-Series-/blob/main/Time_series_EDA/10-days_Rolling.PNG?raw=true)
