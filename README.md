@@ -21,7 +21,7 @@ The objective is to analyse the stocks of Tesla co and perform data visualizatio
 * Date time index
 * Extract Date feature
 * Time resampling
-    1. year end Frequency (rule = 'A')
+    1. Year end Frequency (rule = 'A')
     2. Quaterly start frequency (rule = 'QS')
     3. Business End frequency (rule = 'BA')
     4. Business Quater start frequency (rule = 'BQS')
@@ -43,10 +43,10 @@ _matplotlib package :_
 > $ sudo pip install matplotlib
 
 
-## Analyze the sentiments with stop words using WordCloud and Plotly.
-    * positive comments
-![Logo](https://github.com/L-VinayKumar/YouTube-Sentiment-Analysis/blob/main/YouTube%20Sentiment-Analysis/Positive_Comments.PNG?raw=true)
+## Time Resampling:
+    * Year end Frequency
+![Logo](https://github.com/L-VinayKumar/EDA-with-Time-Series-/blob/main/Time_series_EDA/Year-end-Freq.PNG?raw=true)
     
 
-    * Top 20 Most-Frequent Emojis
-![Logo](https://github.com/L-VinayKumar/YouTube-Sentiment-Analysis/blob/main/YouTube%20Sentiment-Analysis/Top%2020%20Emojis.PNG?raw=true)
+    * Business Quater start frequency
+![Logo](https://github.com/L-VinayKumar/EDA-with-Time-Series-/blob/main/Time_series_EDA/Business-quater-start-Freq.PNG?raw=true)
