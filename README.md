@@ -43,7 +43,7 @@ _matplotlib package :_
 > $ sudo pip install matplotlib
 
 
- ### Full report of this project:[Time-Series](https://github.com/L-VinayKumar/EDA-with-Time-Series-/blob/main/Time_series_EDA/Tesla_data.ipynb)
+ ### Full report of this project: [Time-Series](https://github.com/L-VinayKumar/EDA-with-Time-Series-/blob/main/Time_series_EDA/Tesla_data.ipynb)
 
 ## Time Resampling:
     * Year end Frequency
