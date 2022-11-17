@@ -2,7 +2,7 @@
 
 Tesla also produces three energy storage products, the Powerwall home battery, the Powerpack commercial-scale battery, and Megapack, which is designed for utility-scale installations.
 
-In 2016, Tesla became the world’s first vertically-integrated sustainable energy company with the acquisition of SolarCity, the leading provider of solar power systems in the United States, and in 2017 released Solar Roof – a beautiful an affordable energy generation product.
+In 2016, Tesla became the world’s first vertically-integrated sustainable energy company with the acquisition of SolarCity, the leading provider of solar power systems in the United States, and in 2017 released Solar Roof – a beautiful and affordable energy generation product.
 
 
 ![App Screenshot](https://img.money.com/2021/05/Investing-How-To-Buy-Tesla-Stock.jpg)
