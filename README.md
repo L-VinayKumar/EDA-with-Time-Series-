@@ -1,4 +1,4 @@
-# **EDA with Time Series ( Tesla Stoc)**
+# **EDA with Time Series ( Tesla Stock)**
 
 Tesla also produces three energy storage products, the Powerwall home battery, the Powerpack commercial-scale battery, and Megapack, which is designed for utility-scale installations.
 
